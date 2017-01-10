@@ -1,0 +1,4 @@
+name = "Islandora Vagrant Fedora Objects"
+description = "Creates root collection pid(s) for the UMLSO Islandora sites in the Vagrant environment." 
+dependencies[] = islandora
+core = "7.x"
